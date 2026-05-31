@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Kauan Victor
+construindo novas experiências com codigos.
+Estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por código limpo, interfaces sensíveis e por aquele momento em que uma ideia ganha vida na tela.
+
+“a tecnologia mais bonita é aquela que faz alguém se sentir.”
